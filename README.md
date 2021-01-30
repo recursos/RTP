@@ -13,4 +13,11 @@ Criar uma pasta nova, por exemplo:
 RTPdownload
 
 Copiar para ela os 4 ficheiros ("Save link as...")
+icon.png
+popup.html
+rtp.js
+manifest.json
+
+
+
 
