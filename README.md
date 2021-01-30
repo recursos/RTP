@@ -9,7 +9,7 @@ O popup da extensão vai mostrar o nome do vídeo e o URL, e iniciar o diálogo 
 
 # Como instalar a extensão
 
-Criar uma pasta nova, por exemplo:
+Criar uma pasta local nova no PC, por exemplo:
 RTPdownload
 
 Copiar para ela os 4 ficheiros ("Save link as...")
